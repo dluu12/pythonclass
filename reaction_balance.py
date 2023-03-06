@@ -4,7 +4,10 @@ import numpy as np
 from scipy import linalg
 from fractions import Fraction
 
-######## This script is used to balance molecular or ionic chemical reactions. At this point, it is not too effective for redox reactions that contain e- in the equation.  
+######## This script is used to balance molecular or ionic chemical reactions. 
+At this point, it is not too effective for redox reactions that contain e- in the equation. 
+
+execute the script with balance('reactions.txt')
 
 ############################################
 
